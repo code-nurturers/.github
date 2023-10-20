@@ -1,12 +1,11 @@
 ## Hi there 👋
 
-<!--
 
-**Here are some ideas to get you started:**
+🙋‍♀️ At Code Nurturers, our vision is to empower both individuals and organizations to thrive in the digital age.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🌈 Contribution guidelines - be respectful, consider attending our monthly public webinars, soon there will be public repos if you want to contribute
+
+👩‍💻 Useful resources - All our repos will have running instructions in repos, when our YouTube channel gets created some repos will have an associated video
+
+🍿 Fun facts - Our team enjoys donuts for breakfast!
+
